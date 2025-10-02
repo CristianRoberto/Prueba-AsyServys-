@@ -168,3 +168,5 @@ C:\Users\Cristian Roberto\Desktop\pruebaAsyServys\ControlTemperaturas.API\obj\De
 C:\Users\Cristian Roberto\Desktop\pruebaAsyServys\ControlTemperaturas.API\obj\Debug\net8.0\ControlTemperaturas.API.pdb
 C:\Users\Cristian Roberto\Desktop\pruebaAsyServys\ControlTemperaturas.API\obj\Debug\net8.0\ControlTemperaturas.API.genruntimeconfig.cache
 C:\Users\Cristian Roberto\Desktop\pruebaAsyServys\ControlTemperaturas.API\obj\Debug\net8.0\ref\ControlTemperaturas.API.dll
+C:\Users\Cristian Roberto\Desktop\pruebaAsyServys\ControlTemperaturas.API\obj\Debug\net8.0\ControlTemperaturas.API.sourcelink.json
+C:\Users\Cristian Roberto\Desktop\pruebaAsyServys\ControlTemperaturas.API\bin\Debug\net8.0\FluentAssertions.dll

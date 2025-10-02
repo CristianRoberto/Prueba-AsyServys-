@@ -3,12 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Cristian Roberto\\Desktop\\pruebaAsyServys\\ControlTemperaturas.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83F70F77-618B-44B9-90DB-B0760570A77C}|ControlTemperaturas.API.csproj|c:\\users\\cristian roberto\\desktop\\pruebaasyservys\\controltemperaturas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83F70F77-618B-44B9-90DB-B0760570A77C}|ControlTemperaturas.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDE3E537-A818-4D16-AED3-C6869118C936}|..\\ControlTemperaturas.Tests\\ControlTemperaturas.Tests.csproj|c:\\users\\cristian roberto\\desktop\\pruebaasyservys\\controltemperaturas.tests\\controlencabezadostests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83F70F77-618B-44B9-90DB-B0760570A77C}|ControlTemperaturas.API.csproj|c:\\users\\cristian roberto\\desktop\\pruebaasyservys\\controltemperaturas.api\\controllers\\controlencabezadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83F70F77-618B-44B9-90DB-B0760570A77C}|ControlTemperaturas.API.csproj|solutionrelative:controllers\\controlencabezadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83F70F77-618B-44B9-90DB-B0760570A77C}|ControlTemperaturas.API.csproj|c:\\users\\cristian roberto\\desktop\\pruebaasyservys\\controltemperaturas.api\\controltemperaturas.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83F70F77-618B-44B9-90DB-B0760570A77C}|ControlTemperaturas.API.csproj|solutionrelative:controltemperaturas.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE3E537-A818-4D16-AED3-C6869118C936}|..\\ControlTemperaturas.Tests\\ControlTemperaturas.Tests.csproj|c:\\users\\cristian roberto\\desktop\\pruebaasyservys\\controltemperaturas.tests\\controltemperaturas.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +20,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 155,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControlTemperaturas.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Cristian Roberto\\Desktop\\pruebaAsyServys\\ControlTemperaturas.Tests\\ControlTemperaturas.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\ControlTemperaturas.Tests\\ControlTemperaturas.Tests.csproj",
+              "ToolTip": "C:\\Users\\Cristian Roberto\\Desktop\\pruebaAsyServys\\ControlTemperaturas.Tests\\ControlTemperaturas.Tests.csproj",
+              "RelativeToolTip": "..\\ControlTemperaturas.Tests\\ControlTemperaturas.Tests.csproj",
+              "ViewState": "AQIAABUAAAAAAAAAAAD4vxwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T01:00:23.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Cristian Roberto\\Desktop\\pruebaAsyServys\\ControlTemperaturas.API\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Cristian Roberto\\Desktop\\pruebaAsyServys\\ControlTemperaturas.API\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Title": "ControlEncabezadosTests.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Roberto\\Desktop\\pruebaAsyServys\\ControlTemperaturas.Tests\\ControlEncabezadosTests.cs",
+              "RelativeDocumentMoniker": "..\\ControlTemperaturas.Tests\\ControlEncabezadosTests.cs",
+              "ToolTip": "C:\\Users\\Cristian Roberto\\Desktop\\pruebaAsyServys\\ControlTemperaturas.Tests\\ControlEncabezadosTests.cs",
+              "RelativeToolTip": "..\\ControlTemperaturas.Tests\\ControlEncabezadosTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T23:51:36.552Z",
+              "WhenOpened": "2025-10-02T00:59:53.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ControlEncabezadosController.cs",
-              "DocumentMoniker": "C:\\Users\\Cristian Roberto\\Desktop\\pruebaAsyServys\\ControlTemperaturas.API\\Controllers\\ControlEncabezadosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ControlEncabezadosController.cs",
-              "ToolTip": "C:\\Users\\Cristian Roberto\\Desktop\\pruebaAsyServys\\ControlTemperaturas.API\\Controllers\\ControlEncabezadosController.cs",
-              "RelativeToolTip": "Controllers\\ControlEncabezadosController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T23:40:22.303Z",
+              "Title": "ControlTemperaturas.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Cristian Roberto\\Desktop\\pruebaAsyServys\\ControlTemperaturas.API\\ControlTemperaturas.API.csproj",
+              "RelativeDocumentMoniker": "ControlTemperaturas.API.csproj",
+              "ToolTip": "C:\\Users\\Cristian Roberto\\Desktop\\pruebaAsyServys\\ControlTemperaturas.API\\ControlTemperaturas.API.csproj",
+              "RelativeToolTip": "ControlTemperaturas.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T00:40:55.126Z",
               "EditorCaption": ""
             }
           ]

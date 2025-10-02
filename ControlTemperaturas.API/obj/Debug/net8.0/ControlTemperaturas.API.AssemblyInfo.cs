@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControlTemperaturas.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0faa238e75bc55291663193c348d8a948d83f242")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControlTemperaturas.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControlTemperaturas.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
