@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2Tg/4EcRytmw8PwuXuJvFt1ZJ1j+HuSVAB4WE6aEQOo=",
+  "Source": "ControlTemperaturas.API",
+  "BasePath": "_content/ControlTemperaturas.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

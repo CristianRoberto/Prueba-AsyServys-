@@ -1,0 +1,27 @@
+{
+  "destino": "Planta Manta - Turno B",
+  "fechaDescongelacion": "2025-10-02",
+  "fechaProduccion": "2025-10-03",
+  "realizadoPor": "Carlos Pérez",
+  "revisadoPor": "Ana Torres",
+  "controlDetalles": [
+    {
+      "numeroCoche": 401,
+      "codigoProducto": "PROD-NEW01",
+      "horaInicioDescongelado": "06:00:00",
+      "temperaturaProducto": 4.8,
+      "horaInicioConsumo": "07:00:00",
+      "horaFinConsumo": "09:00:00",
+      "observaciones": "Insertado desde Postman"
+    },
+    {
+      "numeroCoche": 402,
+      "codigoProducto": "PROD-NEW02",
+      "horaInicioDescongelado": "06:30:00",
+      "temperaturaProducto": 5.2,
+      "horaInicioConsumo": "07:30:00",
+      "horaFinConsumo": "09:30:00",
+      "observaciones": "Todo correcto"
+    }
+  ]
+}

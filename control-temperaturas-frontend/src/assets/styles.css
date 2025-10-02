@@ -1,0 +1,83 @@
+/* src/assets/styles.css */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f7fb;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+h2, h3 {
+  color: #0454b4;
+  margin-bottom: 10px;
+}
+
+input, select, button {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+button {
+  background-color: #4c8cb4;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #0454b4;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+  background-color: white;
+}
+
+table th, table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+  font-size: 14px;
+}
+
+table th {
+  background-color: #4c8cb4;
+  color: white;
+}
+
+.formulario, .reporte {
+  max-width: 900px;
+  margin: 20px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.navbar {
+  display: flex;
+  gap: 1.5rem;
+  background: #4c8cb4;
+  padding: 1rem;
+}
+
+.navbar a {
+  color: white;
+  font-weight: 600;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
+.navbar a.router-link-active {
+  border-bottom: 2px solid white;
+}
